@@ -1,0 +1,7 @@
+Python 3.8+
+Transformers
+Requests
+BeautifulSoup4
+Scikit-learn
+Textstat
+Markdown
