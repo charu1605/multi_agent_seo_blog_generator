@@ -17,8 +17,8 @@ Ensure you have **Python 3.8+** installed on your system.
 ### Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/multi-agent-blog.git
-   cd multi-agent-blog
+  git clone https://github.com/charu1605/multi_agent_seo_blog_generator.git
+  cd multi_agent_seo_blog_generator
    ```
 2. **Install dependencies:**
    ```bash
