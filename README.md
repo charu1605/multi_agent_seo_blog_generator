@@ -18,10 +18,6 @@ Clone the repository:
 git clone https://github.com/charu1605/multi_agent_seo_blog_generator.git
 cd multi_agent_seo_blog_generator
 ```
-```bash
-git clone https://github.com/charu1605/multi_agent_seo_blog_generator.git
-cd multi_agent_seo_blog_generator
-```
 
 Install dependencies:
 ```bash
